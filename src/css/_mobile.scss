@@ -64,6 +64,14 @@
 
         grid-template-columns: 1fr;
     }
+
+    .work-grid {
+        grid-template-areas: 
+        'proj1'
+        'proj2';
+
+        grid-template-columns: 1fr;
+    }
 }
 
 //Smartphone
