@@ -9,7 +9,8 @@
         <h6>Vue.js, Node.js, Express.js, MySQL</h6>
         <h6>2019</h6>
         <p>A landingpage for the studentorganisation LED. With homemade backend functionality for adding, editing and deleting articles, boardmembers and banner photos. Includes image upload and user authentication.</p>
-        <p>Live at <a href="https://led-uis.no" target="_blank">led-uis.no</a></p>
+        <p>Site is not yet live</p>
+        <!-- <p>Live at <a href="https://led-uis.no" target="_blank">led-uis.no</a></p> -->
       </div>
 
       <div class="proj proj2">
