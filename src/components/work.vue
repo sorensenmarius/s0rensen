@@ -1,6 +1,7 @@
 <template>
   <div class="main">
-    <h1 class="lg-heading"><span class="text-secondary">My</span> Work</h1>
+    <h1 class="lg-heading"><span class="text-secondary">My Work</span> and Projects</h1>
+    <h2>Some of my serious work and fun projects. Most of the sourcecode can be found on my <a href="https://github.com/sorensenmarius" target="_blank">GitHub</a></h2>
     <div class="work-grid">
 
       <div class="proj proj1">
@@ -17,6 +18,14 @@
         <h6>2018 - 2019</h6>
         <p>Full LMS's. One for general use (Smartstudy) and other for use in Smartstudy AS when teaching participants the Norwegian language. Both platforms based on flashcard functionality, with live voice and text chat.</p>
         <p>Read about Introduksjon: <a href="https://introduksjon.no" target="_blank">www.introduksjon.no</a></p>
+      </div>
+
+      <div class="proj proj3">
+        <h3>Multiplayer Hangman</h3>
+        <h6>Vanilla JS and Flask</h6>
+        <h6>2018</h6>
+        <p>Multiplayer hangman for you and your friends. Live at <a href="https://mphangman.azurewebsites.net" target="_blank">mphangman.azurewebsites.net</a> (June 2019)</p>
+        <p><a href="https://github.com/sorensenmarius/mpHangman" target="_blank">Source code</a></p>
       </div>
     </div>
   </div>

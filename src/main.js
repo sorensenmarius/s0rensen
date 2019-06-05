@@ -6,6 +6,7 @@ import router from './router'
 import VueTyperPlugin from 'vue-typer'
 import vbclass from 'vue-body-class'
 
+
 Vue.config.productionTip = false
 Vue.use(VueTyperPlugin)
 Vue.use(vbclass,router)

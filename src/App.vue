@@ -15,6 +15,9 @@ export default {
     'topMenu': topMenu,
     'bottomFooter': bottomFooter
   },
+  created() {
+    document.title = "Marius Sørensen"
+  }
 }
 </script>
 
