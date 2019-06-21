@@ -13,32 +13,14 @@ body {
     overflow: hidden;
 }
 
-.portrait {
-    width: 250px;
-    height: 250px;
-    background: url(../img/portrait.jpg);
-    border-radius: 50%;
-    opacity: 0.9;
-    border: solid 3px $secondary-color;
-}
-
 .work-grid {
     display: grid;
     grid-gap: 30px;
     grid-template-areas:
-    '1 2'
-    '3 4';
+    'proj1 proj2'
+    'proj3 proj4';
     grid-template-columns: repeat(2, 1fr);
-}
-
-.bio-image {
-    grid-area: bioimage;
-    margin: auto;
-}
-
-.bio {
-    grid-area: bio;
-    font-size: 1.5rem;
+    padding: 30px 30px 0 30px;
 }
 
 .proj {
@@ -53,4 +35,8 @@ body {
 
 .proj2 {
     grid-area: proj2;
+}
+
+.proj3 {
+    grid-area: proj3;
 }
