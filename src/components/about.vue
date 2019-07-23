@@ -15,7 +15,7 @@
         <h3>LED</h3>
         <h6>Deputy leader</h6>
         <h6>Feb. 2019 - Mar. 2020</h6>
-        <p>LED (Linjeforeningen for elektro og data) serves as a link between our students (CS and electrical engeneering) and businesses in these industries. Additionally we aspire to be a sociel hub for all CS and EE students </p>
+        <p>LED (Linjeforeningen for elektro og data) serves as a link between our students (computer science and electrical engineering) and businesses in these industries. Additionally we aspire to be a social hub for all CS and EE students </p>
       </div>
 
       <div class="job job2">
