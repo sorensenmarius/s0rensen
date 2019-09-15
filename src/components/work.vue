@@ -9,8 +9,7 @@
         <h6>Vue.js, Node.js, Express.js, MySQL</h6>
         <h6>2019</h6>
         <p>A landingpage for the studentorganisation LED. With homemade backend functionality for adding, editing and deleting articles, boardmembers and banner photos. Includes image upload and user authentication.</p>
-        <p>Site is not yet live</p>
-        <!-- <p>Live at <a href="https://led-uis.no" target="_blank">led-uis.no</a></p> -->
+        <p>Live at <a href="https://led-uis.no" target="_blank">led-uis.no</a></p>
       </div>
 
       <div class="proj proj2">
@@ -24,8 +23,8 @@
       <div class="proj proj3">
         <h3>Multiplayer Hangman</h3>
         <h6>Vanilla JS and Flask</h6>
-        <h6>2018</h6>
-        <p>Multiplayer hangman for you and your friends. Live at <a href="https://mphangman.azurewebsites.net" target="_blank">mphangman.azurewebsites.net</a> (June 2019)</p>
+        <h6>2019</h6>
+        <p>Multiplayer hangman for you and your friends.</p>
         <p><a href="https://github.com/sorensenmarius/mpHangman" target="_blank">Source code</a></p>
       </div>
     </div>
