@@ -7,7 +7,7 @@
       </div>
       <div class="bio">
         <h3 class="text-secondary">BIO</h3>
-        <p>My name is Marius. I am currently 22 years old and studying computer science at <a href="http://www.uis.no" target="_blank">The University of Stavanger</a>. I am also workng as a Project Leader and Web developer at <a href="http://www.smartstudy.no" target="_blank">Smartstudy AS</a>. In my spare time I am engaged in several student initiatives and as an entrepreneur. You can read a bit more about some of these ventures below! 
+        <p>My name is Marius. I am currently 23 years old and studying computer science at <a href="http://www.uis.no" target="_blank">The University of Stavanger</a>. I am also workng as a Project Leader and Web developer at <a href="http://www.smartstudy.no" target="_blank">Smartstudy AS</a>. In my spare time I am engaged in several student initiatives and as an entrepreneur. You can read a bit more about some of these ventures below! 
         </p>
       </div>
 
