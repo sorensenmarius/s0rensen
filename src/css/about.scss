@@ -46,6 +46,10 @@ body {
     background: lighten($primary-color, 5);
     padding: 0.5rem;
     border-bottom: $secondary-color 5px solid;
+
+    h3 {
+        padding: 0;
+    }
 }
 
 .job1 {
@@ -58,4 +62,10 @@ body {
 
 .job3 {
     grid-area: job3;
+}
+
+@media screen and (max-width: 800px) {
+    .bio {
+        font-size: 1.25rem;
+    }
 }

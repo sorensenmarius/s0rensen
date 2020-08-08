@@ -43,6 +43,11 @@ export default{
 				},
 				{ 
 					id: 3,
+					text: 'My Projects', 
+					page: '/projects' 
+				},
+				{ 
+					id: 4,
 					text: 'Contact', 
 					page: '/contact' 
 				} 

@@ -13,6 +13,7 @@
     "@fortawesome/free-regular-svg-icons": "^5.9.0",
     "@fortawesome/free-solid-svg-icons": "^5.8.2",
     "@fortawesome/vue-fontawesome": "^0.1.6",
+    "@growthbunker/vuetimeline": "^0.1.17",
     "core-js": "^2.6.5",
     "vue": "^2.6.10",
     "vue-body-class": "^2.0.0-beta.2",

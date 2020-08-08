@@ -60,7 +60,6 @@ header {
     position: fixed;
     top: 0;
     width: 100%;
-    //opacity: 0.9;
     visibility: hidden;
     &.show {
         visibility: visible;
@@ -141,7 +140,7 @@ header {
 }
 
 //Delay each nav-item slide
-@for $x from 1 through 4 {
+@for $x from 1 through 5 {
     .nav-item:nth-child(#{$x}) {
         transition-delay: $x * 0.07s;
     }

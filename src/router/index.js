@@ -6,6 +6,7 @@ import work from '@/components/work'
 import contact from '@/components/contact'
 import footer from '@/components/bottomFooter'
 import topMenu from '@/components/topMenu'
+import projects from '@/components/projects'
 
 
 Vue.use(Router)
@@ -46,6 +47,18 @@ const router = new Router({
       },
       meta: {
         bodyClass: 'work',
+      }
+    },
+    {
+      path: '/projects',
+      name: 'My projects',
+      components: {
+        header: topMenu,
+        main: projects,
+        footer: footer
+      },
+      meta: {
+        bodyClass: 'project',
       }
     },
     {

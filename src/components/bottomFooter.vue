@@ -1,6 +1,6 @@
 <template>
     <footer class="main-footer">
-      2019 Copyright &copy; : s0rensen.no
+      2020 Copyright &copy; : s0rensen.no
     </footer>
 </template>
 

@@ -7,14 +7,8 @@
 </template>
 
 <script>
-import topMenu from './components/topMenu';
-import bottomFooter from './components/bottomFooter';
 export default {
   name: 'App',
-  components: {
-    'topMenu': topMenu,
-    'bottomFooter': bottomFooter
-  },
   created() {
     document.title = "Marius Sørensen"
   }
