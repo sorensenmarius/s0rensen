@@ -1,6 +1,6 @@
 <template>
   <div class="main">
-    <h1 class="lg-heading">About <span class="text-secondary">Me</span></h1>
+    <h1 class="lg-heading">About Me</h1>
     <div class="about-info">
       <div class="bio-image">
         <div class="portrait"></div>
